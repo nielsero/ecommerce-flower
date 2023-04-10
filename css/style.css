@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
 header {
     background-color: lightpink;
     height: 350px;
@@ -5,4 +7,15 @@ header {
 
 footer {
     background-color: lightpink;
+}
+
+.ver-flor {
+    background-color: lightseagreen;
+    color: white;
+    padding-left: 37px;
+    padding-right: 37px;
+}
+
+.hero, .hero-sub {
+    font-family: 'Poppins', sans-serif;
 }
