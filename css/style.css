@@ -95,3 +95,22 @@
 .border-gray-900 {
   border-color: #1a202c;
 }
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500;600&display=swap');
+
+header {
+    background-color: lightpink;
+    height: 350px;
+}
+
+footer {
+    background-color: lightpink;
+}
+
+.ver-flor {
+    background-color: lightseagreen;
+    color: white;
+}
+
+.hero, .hero-sub {
+    font-family: 'Quicksand', sans-serif;
+}
