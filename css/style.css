@@ -16,6 +16,10 @@
   border-color: #a0aec0;
 }
 
+.nav-item-page {
+  background-color: lightpink;
+}
+
 @import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500;600&display=swap");
 
 header {
